@@ -6,4 +6,6 @@
 * rosalind - https://rosalind.info/problems/locations/
 * reddit daily programmer - https://www.reddit.com/r/dailyprogrammer/
 
-
+# プログラミング ニュースサイト(海外)
+* Real Python - https://realpython.com/
+* 
