@@ -7,5 +7,5 @@
 * reddit daily programmer - https://www.reddit.com/r/dailyprogrammer/
 
 # プログラミング ニュースサイト(海外)
+* hackernoon - https://hackernoon.com/
 * Real Python - https://realpython.com/
-* 
