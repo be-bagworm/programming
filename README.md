@@ -26,7 +26,7 @@
 * recursion - https://recursionist.io/
 
 # 数学
-https://hokkaimath.jp/
-OMC - https://onlinemathcontest.com/
-https://github.com/tirthajyoti/Stats-Maths-with-Python
-https://brilliant.org/
+* 高校入試　数学　良問・難問 - https://hokkaimath.jp/
+* OMC - https://onlinemathcontest.com/
+* Statistics/ Mathematical Computing Notebooks - https://github.com/tirthajyoti/Stats-Maths-with-Python
+* briliant - https://brilliant.org/
