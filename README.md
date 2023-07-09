@@ -15,3 +15,4 @@
 # Python
 * Real Python - https://realpython.com/
 * Python Principles - https://pythonprinciples.com/
+* Pythonic Hight School - https://ictsr4.com/sw/
