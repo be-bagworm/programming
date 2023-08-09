@@ -22,6 +22,11 @@
 # SQL
 * SQLZOO - https://sqlzoo.net/wiki/SQL_Tutorial
 
+# algorighm
+* アルゴリズムロジック - https://algo-logic.info/
+* アルゴ式 - https://algo-method.com/
+* Open Data Structures - https://sites.google.com/view/open-data-structures-ja/home
+
 # コンピュータサイエンス
 * Open Source Society University - https://github.com/ossu/computer-science]
 * recursion - https://recursionist.io/
