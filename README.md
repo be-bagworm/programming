@@ -8,6 +8,7 @@
 
 # プログラミング ニュースサイト(海外)
 * hackernoon - https://hackernoon.com/
+* The Progmatic Engineer - https://blog.pragmaticengineer.com/
 
 # プログラミング学習サイト
 * freecodecamp - https://www.freecodecamp.org/
