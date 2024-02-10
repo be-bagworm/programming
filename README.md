@@ -32,6 +32,7 @@
 ## コンピュータサイエンス
 * Open Source Society University - https://github.com/ossu/computer-science]
 * recursion - https://recursionist.io/
+* cs50 - https://cs50.jp/
 
 ## 数学
 * 高校入試　数学　良問・難問 - https://hokkaimath.jp/
