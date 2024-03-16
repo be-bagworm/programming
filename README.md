@@ -30,7 +30,7 @@
 * Open Data Structures - https://sites.google.com/view/open-data-structures-ja/home
 
 ## コンピュータサイエンス
-* Open Source Society University - https://github.com/ossu/computer-science]
+* Open Source Society University - https://github.com/ossu/computer-science
 * recursion - https://recursionist.io/
 * cs50 - https://cs50.jp/
 
